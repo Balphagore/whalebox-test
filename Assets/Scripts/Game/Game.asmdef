@@ -1,0 +1,21 @@
+{
+    "name": "Game",
+    "rootNamespace": "WhaleBoxTest.Game",
+    "references": [
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4",
+        "GUID:e168d7dd9a4ab054db0f551d7dffa77d",
+        "GUID:46e87138ff180054aa572c23257bcbd4",
+        "GUID:6774a7d8c3c844241a56e89edc990c42",
+        "GUID:0e0b0222ad0a6184daf3415fc8d40d4d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
